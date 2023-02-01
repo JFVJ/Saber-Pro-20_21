@@ -1,4 +1,4 @@
-![logo](https://github.com/JFVJ/Saber-Pro-20_21/blob/main/Im%C3%A1genes/logo-prueba-2022_saber11.png.jpg?raw=true)
+![logo](https://github.com/JFVJ/Saber-Pro-20_21/blob/main/Im%C3%A1genes/logo-prueba-2022_saber11.png)
 
 Desde el 2009 el Instituto Colombiano para el Fomento de la Educación Superior (ICFES) es una entidad autónoma que está vinculada al Ministerio de Educación Nacional y tiene como objeto entre sus diversas funciones velar por la calidad de la educación de los colombianos a través de organizar e implementar las diferentes pruebas Saber (3,5,7,9 que se aplican a nivel de educación básica, 11  para educación media y Pro para educación superior); diseñar y  la base de datos sociodemográficos y de resultados de los estudiantes que presentan las diferentes pruebas; realizar estudios e investigaciones en el campo de la evaluación de la calidad de la educación que permitan dar recomendaciones sobre políticas públicas. 
 
