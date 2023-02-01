@@ -8,3 +8,11 @@ Debido a lo anterior es de interés entender los resultados, acotando por dispon
 * Entender el contenido de los archivos de datos obtenidos de https://www2.icfes.gov.co/data-icfes  sobre las pruebas Saber 11.
 * Identificar características de las variables de interés y relaciones entre ellas por medio de visualizaciones y estadísticas descriptivas.
 * Proponer un modelo de Machine Learning que busque relacionar las variables de interés con el desempeño de los estudiantes.
+
+Para lograr los objetivos propuestos, dividiremos este notebook en 3 fases:
+
+* Fase 1: Obtener e inspeccionar archivos. El objetivo en esta esta fase es extraer, evaluar la completitud e idoneidad de la información contenida e incluir nuevas variables y agrupaciones que consideremos pertinentes para el análisis.
+
+* Fase 2: Identificar características y relaciones entre las variables. Explorar visualmente 
+
+* Fase 3: abordar relación variables-desempeño a través de un modelo
