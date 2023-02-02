@@ -21,5 +21,4 @@ Para lograr los objetivos propuestos, dividiremos este notebook en 3 fases:
 
 3. **Abordar relación variables-desempeño a través de un modelo.** El objetivo en esta esta fase es Evaluar a través de modelos de Machine Learning de clasificación,  las variables sociodemográficas que inciden en puntajes sobresalientes (por encima del 70%) y explicar la calidad del modelo obtenido.
 
-Debido a situaciones de compatibilidad de la visualización de las gráficas de mapas coropléticos, te invito a visualizarlo en el siguiente enlace:
-[shorturl.at/ilqAN](https://nbviewer.org/github/JFVJ/Saber_11-20_21-/blob/main/Factores%20de%20%C3%A9xito%20pruebas%20Saber%2011%20%2820-21%29.ipynb)
+Debido a situaciones de compatibilidad de la visualización de las gráficas de mapas coropléticos, te invito a visualizarlo en el siguiente[enlace:](https://nbviewer.org/github/JFVJ/Saber_11-20_21-/blob/main/Factores%20de%20%C3%A9xito%20pruebas%20Saber%2011%20%2820-21%29.ipynb)
