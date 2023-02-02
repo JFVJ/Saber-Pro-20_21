@@ -17,6 +17,9 @@ Para lograr los objetivos propuestos, dividiremos este notebook en 3 fases:
 
 1. **Obtener e inspeccionar archivos.** El objetivo en esta esta fase es extraer, evaluar la completitud e idoneidad de la información contenida e incluir nuevas variables y agrupaciones que consideremos pertinentes para el análisis.
 
-2. **Identificar características y relaciones entre las variables.** Explorar visualmente por medio de librerias gráficas la composisicón de nuestros datos y las relaciones 
+2. **Identificar características y relaciones entre las variables.** El objetivo en esta esta fase es explorar visualmente por medio de librerías gráficas la composición de nuestros datos para obtener algunas estadísticas descriptivas de la población y los resultados a nivel sociodemográfico. 
 
-3. **Abordar relación variables-desempeño a través de un modelo.** 
+3. **Abordar relación variables-desempeño a través de un modelo.** El objetivo en esta esta fase es Evaluar a través de modelos de Machine Learning de clasificación,  las variables sociodemográficas que inciden en puntajes sobresalientes (por encima del 70%) y explicar la calidad del modelo obtenido.
+
+Debido a situaciones de compatibilidad de la visualización de las gráficas de mapas coropléticos, te invito a visualizarlo en el siguiente enlace:
+shorturl.at/ilqAN
